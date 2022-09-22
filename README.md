@@ -1,5 +1,5 @@
 ## Sand Box
-It is a web app that informs users about the upcoming and latest movies and TV series.
+It is a responsive web app that informs users about the upcoming and latest movies and TV series.
 The data is fetched from `TMDB API`.
 
 [Demo](https://luxury-longma-dbae8f.netlify.app/)
